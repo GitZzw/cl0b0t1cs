@@ -3,6 +3,12 @@
 >>> https://golang.google.cn/doc/tutorial/getting-started
 >>> https://blog.csdn.net/chenggong2dm/article/details/49364691
 
+>> gopath rootpath不一样
+
+`go get -u url`
+>> go get 在gopath路径下安装库
+
+
 `go env`
 >> 查看go环境
 
