@@ -1,4 +1,16 @@
 ## GORM
+ Golang ORM 库
+>> GORM https://learnku.com/docs/gorm/v1/index/3781
+
+
+#### 什么是ORM
+ORM全称Object Relational Mapping，即对象关系映射，是在mysql等数据库工具之上又进行了一层封装，对于数据的操作，我们无需再去编写原生sql，取代代之的是基于面向对象的思想去编写类、对象、调用相应的方法等，ORM会将其转换/映射成原生SQL然后交给pymysql执行
+
+ORM介绍：https://zhuanlan.zhihu.com/p/151373067
+ORM简单教程：https://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html
+
+
+#### GORM使用
 
 #### 安装翻墙问题
 https://blog.csdn.net/fly910905/article/details/104255701
