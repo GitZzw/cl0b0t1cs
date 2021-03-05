@@ -38,3 +38,6 @@ func main() {
 
 `go mod tidy`
 >> 配置相关程序包
+
+
+### go 结构体 tag(埋坑)
