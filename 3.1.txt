@@ -5,3 +5,7 @@ docker本地环境跑demo gokit调研 对比
 
 3.4 学习docker 用docker创建go容器并且helloworld 调研go-kit(微服务架构)
 微服务架构是什么：https://www.zhihu.com/question/65502802/answer/802678798
+
+3.5 学习gorm 实现了 docker gorm镜像
+
+3.6 学习consul
